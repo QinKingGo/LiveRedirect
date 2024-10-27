@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="鸣潮", 【鸣潮CV】代抽守岸人，见证欧气！
+#EXTINF:-1 tvg-logo="" group-title="鸣潮", 鸣潮CV
 http://192.168.10.3:35455/bilibili/321352?line=first
-#EXTINF:-1 tvg-logo="" group-title="鸣潮", 全网最尊重雪豹的直播间
-http://192.168.10.3:35455/bilibili/12451731?line=first
-#EXTINF:-1 tvg-logo="" group-title="聊天交友", 每周六晚9点，陪你聊科技！
+#EXTINF:-1 tvg-logo="" group-title="鸣潮", 江月
+http://192.168.10.3:35455/bilibili/840453?line=first
+#EXTINF:-1 tvg-logo="" group-title="聊天交友", 极客湾
 http://192.168.10.3:35455/bilibili/544843?line=first
-#EXTINF:-1 tvg-logo="" group-title="鸣潮", 安争v-鸣潮深塔，免费凹
-http://192.168.10.3:35455/bilibili/700213?line=first
+#EXTINF:-1 tvg-logo="" group-title="科技·科学", 远古时代装机猿
+http://192.168.10.3:35455/bilibili/1361615?line=first
