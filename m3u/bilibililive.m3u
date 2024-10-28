@@ -7,3 +7,13 @@ http://192.168.10.3:35455/bilibili/840453?line=first
 http://192.168.10.3:35455/bilibili/544843?line=first
 #EXTINF:-1 tvg-logo="" group-title="科技·科学", 远古时代装机猿
 http://192.168.10.3:35455/bilibili/1361615?line=first
+#EXTINF:-1 group-title="一起看",小马快跑咯
+http://192.168.10.3:35455/douyu/21180
+#EXTINF:-1 group-title="一起看",名侦探柯南之银色子弹
+http://192.168.10.3:35455/douyu/6484910
+#EXTINF:-1 group-title="一起看",苹果Zei甜
+http://192.168.10.3:35455/douyu/1174353
+#EXTINF:-1 group-title="一起看",用户0036218064
+http://192.168.10.3:35455/douyu/8600645
+#EXTINF:-1 tvg-logo="" group-title="户外", fufubaoba
+http://192.168.10.3:35455/bilibili/430158?line=first
