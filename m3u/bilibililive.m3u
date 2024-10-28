@@ -17,3 +17,5 @@ http://192.168.10.3:35455/douyu/1174353
 http://192.168.10.3:35455/douyu/8600645
 #EXTINF:-1 tvg-logo="" group-title="户外", fufubaoba
 http://192.168.10.3:35455/bilibili/430158?line=first
+#EXTINF:-1 tvg-logo="null" group-title="一起看",国产搞笑喜剧，哪个戳爆你笑点
+http://192.168.10.1:35455/huya/21059559
