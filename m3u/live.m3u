@@ -25,4 +25,6 @@ http://192.168.10.3:35455/douyin/52064687850
 
 #YouTube
 #EXTINF:-1 tvg-logo="" group-title="YouTube",News
-http://192.168.10.3:35455/youtube/T0E6H4Ko8gs(?quality=720)
+http://192.168.10.3:35455/youtube/T0E6H4Ko8gs
+#EXTINF:-1 tvg-logo="" group-title="YouTube",Music
+http://192.168.10.3:35455/youtube/jfKfPfyJRdk
