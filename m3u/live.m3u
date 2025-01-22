@@ -1,30 +1,29 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="聊天交友", 极客湾
-http://192.168.10.5:35455/bilibili/544843?line=first
-#EXTINF:-1 tvg-logo="" group-title="科技·科学", 远古时代装机猿
-http://192.168.10.5:35455/bilibili/1361615?line=first
+#哔哩哔哩
+#EXTINF:-1 tvg-logo="" group-title="哔哩哔哩", 极客湾
+http://192.168.10.3:35455/bilibili/544843?line=first
+#EXTINF:-1 tvg-logo="" group-title="哔哩哔哩", 远古时代装机猿
+http://192.168.10.3:35455/bilibili/1361615?line=first
 
-
+#
+#EXTINF:-1 group-title="
 #EXTINF:-1 group-title="一起看",小马快跑咯
-http://192.168.10.5:35455/douyu/21180
+http://192.168.10.3:35455/douyu/21180
 #EXTINF:-1 group-title="一起看",名侦探柯南之银色子弹
-http://192.168.10.5:35455/douyu/6484910
+http://192.168.10.3:35455/douyu/6484910
 #EXTINF:-1 group-title="一起看",苹果Zei甜
-http://192.168.10.5:35455/douyu/1174353
+http://192.168.10.3:35455/douyu/1174353
 #EXTINF:-1 group-title="一起看",用户0036218064
-http://192.168.10.5:35455/douyu/8600645
+http://192.168.10.3:35455/douyu/8600645
 #EXTINF:-1 tvg-logo="" group-title="一起看", fufubaoba
-http://192.168.10.5:35455/bilibili/430158?line=first
+http://192.168.10.3:35455/bilibili/430158?line=first
 
-#EXTINF:-1 tvg-logo="" group-title="鸣潮", 鸣潮CV
-http://192.168.10.5:35455/bilibili/321352?line=first
-#EXTINF:-1 tvg-logo="" group-title="鸣潮", 江月
-http://192.168.10.5:35455/bilibili/840453?line=first
-#EXTINF:-1 tvg-logo="" group-title="鸣潮", 西西娇（鸣潮）
-http://192.168.10.5:35455/douyin/513962216550
-#EXTINF:-1 tvg-logo="" group-title="鸣潮", 墨墨（鸣潮）
-http://192.168.10.5:35455/douyin/577160125753
-#EXTINF:-1 tvg-logo="" group-title="鸣潮", XnWwa
-http://192.168.10.5:35455/bilibili/5895809
-#EXTINF:-1 tvg-logo="" group-title="鸣潮",Lee
-http://192.168.10.5:35455/douyin/52064687850
+#游戏
+http://192.168.10.3:35455/douyin/577160125753
+#EXTINF:-1 tvg-logo="" group-title="游戏", XnWwa
+http://192.168.10.3:35455/bilibili/5895809
+#EXTINF:-1 tvg-logo="" group-title="游戏",Lee
+http://192.168.10.3:35455/douyin/52064687850
+
+#哔YouTube
+#EXTINF:-1 tvg-logo="" group-title="YouTube",News
+http://192.168.10.3:35455/youtube/cK4LemjoFd0(?quality=1080/720...)
