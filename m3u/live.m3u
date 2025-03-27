@@ -5,7 +5,6 @@ http://192.168.10.3:35455/bilibili/544843?line=first
 http://192.168.10.3:35455/bilibili/1361615?line=first
 
 #一起看
-#EXTINF:-1 group-title="
 #EXTINF:-1 group-title="一起看",小马快跑咯
 http://192.168.10.3:35455/douyu/21180
 #EXTINF:-1 group-title="一起看",名侦探柯南之银色子弹
@@ -22,6 +21,20 @@ http://192.168.10.3:35455/bilibili/430158?line=first
 http://192.168.10.3:35455/bilibili/5895809
 #EXTINF:-1 tvg-logo="" group-title="游戏",Lee
 http://192.168.10.3:35455/douyin/52064687850
+#EXTINF:-1 tvg-logo="" group-title="游戏", 晚辞
+http://192.168.10.3:35455/douyu/10233183
+#EXTINF:-1 tvg-logo="" group-title="游戏", 寞桀緣才
+http://192.168.10.3:35455/bilibili/12451731?line=first
+#EXTINF:-1 tvg-logo="" group-title="游戏", 泛式
+http://192.168.10.3:35455/bilibili/33989?line=first
+#EXTINF:-1 tvg-logo="" group-title="游戏",CV小米
+http://192.168.10.3:35455/bilibili/27269162
+#EXTINF:-1 tvg-logo="" group-title="游戏",米琪小连杀
+http://192.168.10.3:35455/bilibili/321352
+
+#EXTINF:-1 tvg-logo="" group-title="游戏",鸣潮-猪元璋
+http://192.168.10.3:35455/douyin/774827596349
+
 
 #YouTube
 #EXTINF:-1 tvg-logo="" group-title="YouTube",News
