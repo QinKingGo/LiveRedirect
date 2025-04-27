@@ -21,10 +21,6 @@ http://192.168.10.3:35455/bilibili/430158?line=first
 http://192.168.10.3:35455/bilibili/30186102
 #EXTINF:-1 tvg-logo="" group-title="游戏", XnWwa
 http://192.168.10.3:35455/bilibili/5895809
-#EXTINF:-1 tvg-logo="" group-title="游戏",Lee
-http://192.168.10.3:35455/douyin/52064687850
-#EXTINF:-1 tvg-logo="" group-title="游戏", 晚辞
-http://192.168.10.3:35455/douyu/10233183
 #EXTINF:-1 tvg-logo="" group-title="游戏", 寞桀緣才
 http://192.168.10.3:35455/bilibili/12451731?line=first
 #EXTINF:-1 tvg-logo="" group-title="游戏", 泛式
@@ -34,8 +30,25 @@ http://192.168.10.3:35455/bilibili/27269162
 #EXTINF:-1 tvg-logo="" group-title="游戏",米琪小连杀
 http://192.168.10.3:35455/bilibili/321352
 
+#EXTINF:-1 tvg-logo="" group-title="游戏",Lee
+http://192.168.10.3:35455/douyin/52064687850
+#EXTINF:-1 tvg-logo="" group-title="游戏", 晚辞
+http://192.168.10.3:35455/douyu/10233183
 #EXTINF:-1 tvg-logo="" group-title="游戏",鸣潮-猪元璋
 http://192.168.10.3:35455/douyin/774827596349
+#EXTINF:-1 tvg-logo="" group-title="游戏",小雨大王（鸣潮）
+http://192.168.10.3:35455/douyin/389997715203
+#EXTINF:-1 tvg-logo="" group-title="游戏",长离（鸣潮)
+http://192.168.10.3:35455/douyin/212086006126
+#EXTINF:-1 tvg-logo="" group-title="游戏",eapril-
+http://192.168.10.3:35455/douyin/723309086137
+
+#EXTINF:-1 group-title="游戏",北北子呀
+http://192.168.10.3:35455/douyu/10044682
+#EXTINF:-1 group-title="游戏",浅浅不太温柔
+http://192.168.10.3:35455/douyu/534571
+#EXTINF:-1 group-title="游戏",xuancheng158
+http://192.168.10.3:35455/douyu/12479231
 
 
 #YouTube
