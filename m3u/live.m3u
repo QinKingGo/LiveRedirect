@@ -1,18 +1,18 @@
 #live
 #EXTINF:-1 tvg-logo="" group-title="哔哩哔哩", 极客湾
-http://192.168.10.3:35455/bilibili/544843?line=first
+http://192.168.10.3:35455/bilibili/544843
 #EXTINF:-1 tvg-logo="" group-title="哔哩哔哩", 远古时代装机猿
-http://192.168.10.3:35455/bilibili/1361615?line=first
+http://192.168.10.3:35455/bilibili/1361615
 #EXTINF:-1 tvg-logo="" group-title="哔哩哔哩", 大康评测
-http://192.168.10.3:35455/bilibili/4038332?line=first
+http://192.168.10.3:35455/bilibili/4038332?
 #EXTINF:-1 tvg-logo="" group-title="哔哩哔哩", 陈泽电脑评测
 http://192.168.10.3:35455/bilibili/32485543?line=first
 #EXTINF:-1 tvg-logo="" group-title="哔哩哔哩", 科技美学
-http://192.168.10.3:35455/bilibili/44857?line=first
+http://192.168.10.3:35455/bilibili/44857
 #EXTINF:-1 tvg-logo="" group-title="哔哩哔哩", 修电脑的张哥
-http://192.168.10.3:35455/bilibili/23600018?line=first
+http://192.168.10.3:35455/bilibili/23600018
 #EXTINF:-1 tvg-logo="" group-title="哔哩哔哩", 不寻常手机测评
-http://192.168.10.3:35455/bilibili/26877539?line=first
+http://192.168.10.3:35455/bilibili/26877539
 
 
 #一起看
@@ -25,7 +25,7 @@ http://192.168.10.3:35455/douyu/1174353
 #EXTINF:-1 group-title="一起看",用户0036218064
 http://192.168.10.3:35455/douyu/8600645
 #EXTINF:-1 tvg-logo="" group-title="一起看", fufubaoba
-http://192.168.10.3:35455/bilibili/430158?line=first
+http://192.168.10.3:35455/bilibili/430158
 
 #游戏
 #EXTINF:-1 tvg-logo="" group-title="游戏", 芦毛灰姑娘_
