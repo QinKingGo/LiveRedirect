@@ -16,13 +16,13 @@ http://192.168.10.3:35455/bilibili/26877539
 
 
 #一起看
-#EXTINF:-1 group-title="一起看",小马快跑咯
+#EXTINF:-1 tvg-logo="" group-title="一起看",小马快跑咯
 http://192.168.10.3:35455/douyu/21180
-#EXTINF:-1 group-title="一起看",名侦探柯南之银色子弹
+#EXTINF:-1 tvg-logo="" group-title="一起看",名侦探柯南之银色子弹
 http://192.168.10.3:35455/douyu/6484910
-#EXTINF:-1 group-title="一起看",苹果Zei甜
+#EXTINF:-1 tvg-logo="" group-title="一起看",苹果Zei甜
 http://192.168.10.3:35455/douyu/1174353
-#EXTINF:-1 group-title="一起看",用户0036218064
+#EXTINF:-1 tvg-logo="" group-title="一起看",用户0036218064
 http://192.168.10.3:35455/douyu/8600645
 #EXTINF:-1 tvg-logo="" group-title="一起看", fufubaoba
 http://192.168.10.3:35455/bilibili/430158
@@ -56,11 +56,11 @@ http://192.168.10.3:35455/douyin/212086006126
 #EXTINF:-1 tvg-logo="" group-title="游戏",eapril-
 http://192.168.10.3:35455/douyin/723309086137
 
-#EXTINF:-1 group-title="游戏",北北子呀
+#EXTINF:-1 tvg-logo="" group-title="游戏",北北子呀
 http://192.168.10.3:35455/douyu/10044682
-#EXTINF:-1 group-title="游戏",浅浅不太温柔
+#EXTINF:-1 tvg-logo="" group-title="游戏",浅浅不太温柔
 http://192.168.10.3:35455/douyu/534571
-#EXTINF:-1 group-title="游戏",xuancheng158
+#EXTINF:-1 tvg-logo="" group-title="游戏",xuancheng158
 http://192.168.10.3:35455/douyu/12479231
 
 
