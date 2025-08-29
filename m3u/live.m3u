@@ -1,4 +1,4 @@
-#live
+#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="哔哩哔哩", 极客湾
 http://192.168.10.3:35455/bilibili/544843
 #EXTINF:-1 tvg-logo="" group-title="哔哩哔哩", 远古时代装机猿
@@ -15,7 +15,7 @@ http://192.168.10.3:35455/bilibili/23600018
 http://192.168.10.3:35455/bilibili/26877539
 
 
-#一起看
+
 #EXTINF:-1 tvg-logo="" group-title="一起看",小马快跑咯
 http://192.168.10.3:35455/douyu/21180
 #EXTINF:-1 tvg-logo="" group-title="一起看",名侦探柯南之银色子弹
@@ -27,7 +27,7 @@ http://192.168.10.3:35455/douyu/8600645
 #EXTINF:-1 tvg-logo="" group-title="一起看", fufubaoba
 http://192.168.10.3:35455/bilibili/430158
 
-#游戏
+
 #EXTINF:-1 tvg-logo="" group-title="游戏", 芦毛灰姑娘_
 http://192.168.10.3:35455/bilibili/414706
 #EXTINF:-1 tvg-logo="" group-title="游戏", 鸣潮一戈
@@ -64,7 +64,6 @@ http://192.168.10.3:35455/douyu/534571
 http://192.168.10.3:35455/douyu/12479231
 
 
-#YouTube
 #EXTINF:-1 tvg-logo="" group-title="YouTube",News
 http://192.168.10.3:35455/youtube/T0E6H4Ko8gs
 #EXTINF:-1 tvg-logo="" group-title="YouTube",Music
