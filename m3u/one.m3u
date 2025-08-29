@@ -1,12 +1,12 @@
 
 #一起看
-#EXTINF:-1 tvg-logo="" group-title="一起看",小马快跑咯
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="一起看",小马快跑咯
 http://192.168.10.3:35455/douyu/21180
-#EXTINF:-1 tvg-logo="" group-title="一起看",名侦探柯南之银色子弹
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="一起看",名侦探柯南之银色子弹
 http://192.168.10.3:35455/douyu/6484910
-#EXTINF:-1 tvg-logo=""  group-title="一起看",苹果Zei甜
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg"  group-title="一起看",苹果Zei甜
 http://192.168.10.3:35455/douyu/1174353
-#EXTINF:-1 tvg-logo=""  group-title="一起看",用户0036218064
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg"  group-title="一起看",用户0036218064
 http://192.168.10.3:35455/douyu/8600645
-#EXTINF:-1 tvg-logo="" group-title="一起看", fufubaoba
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="一起看", fufubaoba
 http://192.168.10.3:35455/bilibili/430158
