@@ -30,7 +30,8 @@ http://192.168.10.3:35455/douyu/8600645
 #EXTINF:-1 tvg-logo="" group-title="一起看", fufubaoba
 http://192.168.10.3:35455/bilibili/430158
 
-
+#EXTINF:-1 tvg-logo="" group-title="游戏",老毒物
+http://192.168.10.3:35455/bilibili/1836260870
 #EXTINF:-1 tvg-logo="" group-title="游戏", 芦毛灰姑娘_
 http://192.168.10.3:35455/bilibili/414706
 #EXTINF:-1 tvg-logo="" group-title="游戏", 鸣潮一戈
